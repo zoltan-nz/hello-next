@@ -1,3 +1,17 @@
+# Hello Next.js
+
+## Todo
+
+- Add Bootstrap
+- Add Layout and Navbar
+- Create 3 routes: index, /about, /libraries,
+- Add Mock data (List of Libraries)
+- Add MobX and MobX Store
+- Create Library Model/Interface
+- Show all the Library on one page.
+- Show Library details on /libraries/:library_id
+- Create a form to add new Library on /libraries/new
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -12,7 +26,7 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
 ## Learn More
 
